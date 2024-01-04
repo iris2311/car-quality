@@ -4,3 +4,4 @@
 
  Random Forest Algorithm has multiple parameters so we will use GridSearchCV to find best possible combination of parameters. 
  The we will compare accuracy score for both algorithms. 
+
